@@ -4,6 +4,7 @@ import { TAcademicSemester } from '../../../types/academicManagement.type';
 import { useState } from 'react';
 import { TQueryParam } from '../../../types/global';
 
+
 export type TTableData = Pick<
   TAcademicSemester,
   'name' | 'year' | 'startMonth' | 'endMonth'

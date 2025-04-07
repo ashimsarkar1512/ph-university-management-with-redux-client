@@ -1,10 +1,9 @@
-import React from 'react';
 
 const CreateAcademicFaculty = () => {
             return (
                         <div>
-                                    
-                        </div>
+                        <h1> This is CreateAccademic Faculty component </h1>
+                      </div>
             );
 };
 

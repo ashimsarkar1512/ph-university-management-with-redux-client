@@ -2,8 +2,8 @@
 const CreateAcademicDepartment = () => {
             return (
                         <div>
-                                    
-                        </div>
+                        <h1> This is createAcademicDepartment route </h1>
+                      </div>
             );
 };
 
